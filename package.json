@@ -27,6 +27,6 @@
     "package.json"
   ],
   "dependencies": {
-    "komieter-input": "^0.1.0"
+    
   }
 }
